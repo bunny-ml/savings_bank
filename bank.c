@@ -50,9 +50,9 @@ static void app_activate ( GtkApplication *app , gpointer user_data){
 	GtkWidget *window;
 	GtkWidget *layout_main;
 	GtkWidget *add_btn;
-	GtkWidget *minus_btn;
-	GtkWidget *save_btn;
-	GtkWidget *open_btn;
+	GtkWidget *minus_btn; // make it
+	GtkWidget *save_btn; // make it
+	GtkWidget *open_btn; // make it 
 	GtkWidget *product_name;
 	GtkWidget *product_price;
 	GtkWidget *scrolled;
